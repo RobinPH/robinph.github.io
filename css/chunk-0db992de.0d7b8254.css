@@ -1,0 +1,1 @@
+.lobby{width:40vw;margin:auto}.game-card{display:grid;grid-template-columns:1fr 1fr;margin:10px;background-color:bisque;padding:10px;font-weight:700}.white-card{background-color:azure;color:#708090}.black-card{background-color:#708090;color:azure}.game-player{text-align:left}.game-join-button{text-align:right}
